@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ID</string>
+    <string name="hint_id">enter ID number</string>
+    <string name="submit_value">Submit</string>
+</resources>
